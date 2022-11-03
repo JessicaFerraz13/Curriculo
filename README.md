@@ -1,4 +1,5 @@
 # Currículo 
 
-Meu currículo em HTML e CSS.
-link: https://jessicaferraz13.github.io/Curriculo/
+Meu currículo, utilizando HTML e CSS.
+###
+Link: https://jessicaferraz13.github.io/Curriculo/
